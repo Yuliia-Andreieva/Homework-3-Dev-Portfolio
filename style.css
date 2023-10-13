@@ -389,13 +389,13 @@ button {
     border-radius: 100px;
 }
 .dark-mode {
-    background-color: #191919;
+    background-color: #202020;
     color: #D9D9D9; 
 }
 .dark-mode header {
-    background-color: #191919;
+    background-color: #202020;
     color: #A7A7A7;
-    border-bottom: 2px solid #101010;
+    border-bottom: 2px solid #1010106c;
 }
 .dark-mode .greeting {
     color: #D9D9D9;
